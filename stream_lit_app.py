@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 # Main function
 # -------------------------------
 def main():
-    st.title('Binary Classification Web App')
+    st.title('Binary Classification Web App 🍄')
     st.sidebar.title('Binary Classification Web App')
     st.markdown('Are your mushrooms edible or poisonous?')
     st.sidebar.markdown('Are your mushrooms edible or poisonous?')
